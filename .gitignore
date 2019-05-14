@@ -28,3 +28,5 @@ hs_err_pid*
 .idea/libraries
 .idea/usage.statistics.xml
 .idea/tasks.xml
+.idea/uiDesigner.xml
+target/
