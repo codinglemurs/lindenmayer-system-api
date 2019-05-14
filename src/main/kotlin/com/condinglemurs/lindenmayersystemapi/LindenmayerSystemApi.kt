@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class LindenmayerSystemApi
 
 fun main(args: Array<String>) {
-	runApplication<LindenmayerSystemApi>(*args)
+  runApplication<LindenmayerSystemApi>(*args)
 }
