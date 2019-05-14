@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="lindenmayer-system-api" target="1.8" />
+      <module name="lindenmayer-system-api" target="1.12" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
